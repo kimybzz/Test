@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     //new Basic();
-    new StackQuestion(); 
+    new StackQuestion();  //
     //new DFS();
     //new Sort();
 
