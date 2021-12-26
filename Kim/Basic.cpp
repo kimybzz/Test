@@ -7,7 +7,7 @@
 #include <functional>
 #include "Basic.h"
 
-using namespace std;
+using namespace std; //
 
 bool compare(string &a, string &b)
 {
